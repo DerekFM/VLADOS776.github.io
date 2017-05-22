@@ -1,5 +1,5 @@
 var Dice = {
-    betLimit: 50000,
+    betLimit: 500000,
     odometer: null,
     init: function() {
         $(function() {
